@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: centers;
+    flex-direction: column;
+    height: 100%;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 10px 10px;
+}
+
+.nav ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000de;
+    padding: 0 5px;
+    text-decoration: none;
+    font-size: small;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 77px 50px 30px 50px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    width: 38vw;
+    height: 42px;
+    border: 2px solid #93939347;
+    border-radius: 40px;
+}
+
+.icons {
+    position: absolute;
+    font-size: 20px;
+}
+
+.search-bar img {
+    width: 20px;    
+
+}
+
+img.icon-1 {
+    position: relative;
+    right: calc(38vw - 23vw);
+    bottom: 1px;
+    width: 15px;
+}
+
+img.icon-2, img.icon-3 {
+    position: relative;
+    width: 15px;
+    padding-right: 20px;
+    right: calc(100% - 340%);
+    top: 1px;
+}
+
+.search-bar img:nth-child(3) {
+    width: 22px;
+}
+
+.buttons {
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons button {
+    background-color: #f8f9fa;
+    color: #3c4043;
+    margin: 7px;
+    border: none;
+    border-radius: 4px;
+    width: 134px;
+    height: 37px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.buttons button:hover {
+    border: 1px solid #3c404337;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links span {
+    color: #4d5156;
+    display: inline-block;
+    /* line-height: 40px; */
+}
+
+.links a {
+    margin: 5px;
+    text-decoration: none;
+}
+
+.footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+div.layer {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #70757a;
+    background-color: #b2b2b834;
+    border-bottom: 1px solid #dadce0;
+    padding: 15px 30px;
+}
+
+.layer-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.layer-2 a {
+    margin-right: 20px;
+    color: #70757a;
+    text-decoration: none;
+}
+
+.layer-2 a:last-child {
+    margin-right: 0px;
+}
