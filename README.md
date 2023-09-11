@@ -1,6 +1,6 @@
 # Google Home Page Interface
 
-![Google Interface](https://github.com/DevilHackzz/Googe-Home-page/blob/main/screenshot.png)
+![Google Interface]([https://github.com/DevilHackzz/Googe-Home-page/blob/main/screenshot.png](https://devilhackzz.github.io/Googe-Home-page/screenshot.png))
 
 ## Overview
 
