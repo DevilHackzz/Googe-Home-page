@@ -1,6 +1,6 @@
 # Google Home Page Interface
 
-![Google Interface](link-to-screenshot.png) <!-- Add a screenshot of your replica here -->
+![Google Interface](https://github.com/DevilHackzz/Googe-Home-page/blob/main/screenshot.png)
 
 ## Overview
 
