@@ -6,6 +6,9 @@
 
 This repository contains a simple HTML and CSS project that replicates the Google search interface. It's a beginner-friendly project intended for those who want to practice HTML and CSS skills while creating a basic imitation of the Google homepage.
 
+**Live Demo:** [View Google Home Page Demo](https://devilhackzz.github.io/Google-Home-page)
+
+
 # Customization
 Feel free to customize and modify the code to experiment with different features or styles. Here are some areas you can explore:
 
